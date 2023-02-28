@@ -97,7 +97,7 @@ public class Operators {
 
         if (condicao1 && condicao2)
             System.out.print("Os dois valores precisam ser verdadeiros");
-        
+
         //Se condicao1 OU condicao2 for verdadeira, executar código.
         if (condicao1 || condicao2)
             System.out.print("Um dos valores precisa ser verdadeiro");
